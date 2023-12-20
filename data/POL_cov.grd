@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 15:01:12 
+[georeference] 
+nrows= 720 
+ncols= 1224 
+xmin= 14 
+ymin= 48.9 
+xmax= 24.2 
+ymax= 54.9 
+projection= +proj=longlat +ellps=WGS84 
+[data] 
+datatype= INT1U 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= 2 
+maxvalue= 22 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= POL_cov 
+history=  

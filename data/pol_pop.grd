@@ -1,0 +1,27 @@
+[general] 
+creator=R package 'raster' 
+created= 2011-11-12 16:20:46 
+[georeference] 
+nrows= 298 
+ncols= 500 
+xmin= 14.0666666666667 
+ymin= 48.9 
+xmax= 24.1833333333333 
+ymax= 54.9333333333333 
+projection= +proj=longlat +datum=WGS84 +ellps=WGS84 +towgs84=0,0,0 
+[data] 
+datatype= INT2S 
+byteorder= little 
+nbands= 1 
+bandorder= BIL 
+categorical= FALSE 
+minvalue= 10 
+maxvalue= 4639 
+nodatavalue= -9999 
+[legend] 
+legendtype=  
+values=  
+color=  
+[description] 
+layername= pol_pop 
+history=  
